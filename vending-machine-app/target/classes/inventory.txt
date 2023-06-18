@@ -1,0 +1,1 @@
+[{"id":1,"name":"Soda","cost":1.25,"count":9},{"id":2,"name":"Chips","cost":0.75,"count":5},{"id":3,"name":"Candy","cost":0.50,"count":6},{"id":4,"name":"Water","cost":1.00,"count":15},{"id":5,"name":"Cookies","cost":1.50,"count":2}]
